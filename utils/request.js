@@ -1,6 +1,6 @@
 // 后端地址和文件服务地址
-const BaseUrl = 'http://127.0.0.1:53010/'
-const FileServiceUrl = 'http://127.0.0.1:56090/minio/image'
+const BaseUrl = 'http://34.126.182.254:53010/'
+const FileServiceUrl = 'http://34.126.182.254:56090/minio/image'
 
 // 测试
 // const BaseUrl = 'http://127.0.0.1:53010/'
